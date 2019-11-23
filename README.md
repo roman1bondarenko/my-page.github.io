@@ -1,3 +1,7 @@
-# my-page.github.io
+# Play with dns and ssl certificate
 
-SSL sertificate comming soon
+- [link to my page](https://rbondarenko.tk)
+
+- deploy on github pages. 
+- ssl certificate from [cloudflare](https://cloudflare.com)
+- domain from          [freenom](https://freenom.com) 
